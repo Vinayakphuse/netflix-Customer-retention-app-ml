@@ -1,0 +1,12 @@
+pandas
+scikit-learn
+xgboost
+shap
+fastapi
+uvicorn
+streamlit
+psycopg2-binary
+sqlalchemy
+matplotlib
+pydantic
+requests
