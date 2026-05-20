@@ -250,4 +250,4 @@ Aspiring Data Scientist | Machine Learning Engineer | Data Analyst
 
 ---
 
-# ⭐ If you like this project, give it a star on GitHub!
+
